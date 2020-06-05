@@ -10,6 +10,7 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+
 # netbeans
 **/nbproject/private/
 **/nbproject/Makefile-*.mk
@@ -19,3 +20,6 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+# program output
+output.txt
