@@ -121,7 +121,7 @@ void choice(const int &c, BST &tree) {
 		switch (result) {
 		    case 1:
 		    {
-			cout << "Value already exists\n\n";
+			cout << "Value not found\n\n";
 			break;
 		    }
 
